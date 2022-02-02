@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100&display=swap');
 
 font-1 {
   font-family: 'Lexend', sans-serif;
+}
+
+font-2 {
+  font-family: 'Zen Loop', cursive;
+}
+
+font-3 {
+  font-family: 'Grenze Gotisch', cursive;
 }
